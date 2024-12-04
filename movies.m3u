@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="Animada" tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/hw4FlDdufQuLIsYiqBYIL0Bxn26.jpg", Moana
+#EXTINF:-1 tvg-id="ID EPG" group-title="Animada" tvg-name="Moana" tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/hw4FlDdufQuLIsYiqBYIL0Bxn26.jpg", Moana
 https://1a-1791.com/video/s8/2/3/b/X/C/3bXCm.aaa.mp4
-#EXTINF:-1 group-title="CAM" tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/mLAGAFUrRw9pphjnbnhtG1hASSN.jpg", Moana 2 (CAM)
+#EXTINF:-1 tvg-id="ID EPG" group-title="CAM" tvg-name="Moana 2" tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/mLAGAFUrRw9pphjnbnhtG1hASSN.jpg", Moana 2 (CAM)
 https://1a-1791.com/video/fw/s8/2/X/6/j/g/X6jgv.aaa.mp4
