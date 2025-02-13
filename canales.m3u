@@ -1,5 +1,28 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Aztecauno(Spanish).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/azteca_uno-mediano.png" tvg-name="Azteca Uno" group-title="Local",Azteca Uno
+https://01.m3u8
+#EXTINF:-1 tvg-id="LasEstrellas(Spanish).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/de_las_estrellas-mediano.png" tvg-name="Las Estrellas" group-title="Local",Las Estrellas
+https://02.m3u8
+#EXTINF:-1 tvg-id="XHGTVCanal4Guadalajara(Spanish).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/4_de_guadalajara-mediano.png" tvg-name="Canal 4 Guadalajara" group-title="Local",Canal 4 Guadalajara
+https://03.m3u8
 #EXTINF:-1 tvg-id="ADN40(Spanish).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/adn_40-mediano.png" tvg-name="ADN 40" group-title="Local",ADN 40
-https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+https://04.m3u8
 #EXTINF:-1 tvg-id="Azteca7(Spanish).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/azteca_7-mediano.png" tvg-name="Azteca 7" group-title="Local",Azteca 7
-https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+https://05.m3u8
+#EXTINF:-1 tvg-id="Canal5(Spanish).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/5_de_mexico-mediano.png" tvg-name="Canal 5" group-title="Local",Canal 5
+https://06.m3u8
+#EXTINF:-1 tvg-id="CanalNueve(Spanish).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/9_de_mexico-mediano.png" tvg-name="Canal Nueve" group-title="Local",Canal Nueve
+https://07.m3u8
+#EXTINF:-1 tvg-id="CanalOnce(Spanish).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/once_tv_mexico-mediano.png" tvg-name="Canal Once" group-title="Local",Canal Once
+https://08.m3u8
+#EXTINF:-1 tvg-id="XHSPRCCTDT(Spanish).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/14_de_mexico-mediano.png" tvg-name="Canal 14 " group-title="Local",Canal 14 
+https://09.m3u8
+#EXTINF:-1 tvg-id="Canal22(Spanish).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/22_de_mexico-mediano.png" tvg-name="Canal 22" group-title="Local",Canal 22
+https://10.m3u8
+#EXTINF:-1 tvg-id="XEFB(Spanish).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/4_de_monterrey-mediano.png" tvg-name="Canal 4 de Monterrey" group-title="Local",Canal 4 de Monterrey
+https://11.m3u8
+#EXTINF:-1 tvg-id="AandE(Spanish).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/a_y_e_latinoamerica-mediano.png" tvg-name="A&E" group-title="Local",A&E
+https://12.m3u8
+#EXTINF:-1 tvg-id="AMAS(Spanish).mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116157_dark_360w_270h.png" tvg-name="Canal a+" group-title="Local",Canal a+
+https://13.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="Local",
