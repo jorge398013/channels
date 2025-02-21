@@ -25,4 +25,29 @@ https://11.m3u8
 https://12.m3u8
 #EXTINF:-1 tvg-id="AMAS(Spanish).mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116157_dark_360w_270h.png" tvg-name="Canal a+" group-title="Local",Canal a+
 https://13.m3u8
+#EXTINF:-1 tvg-id="AdrenalinaSportsNetwork(Spanish).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/adrenalina_sports_network-mediano.png" tvg-name="Adrenalina Sports Network" group-title="Local",Adrenalina Sports Network
+https://14.m3u8
+#EXTINF:-1 tvg-id="AMC(Spanish).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/amc_latinoamerica-mediano.png" tvg-name="AMC" group-title="Local",AMC
+https://15.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanet(Spanish).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/animal_planet_latinoamerica-mediano.png" tvg-name="Animal Planet" group-title="Local",Animal Planet
+https://16.m3u8
+#EXTINF:-1 tvg-id="Aprendeplus(Spanish).mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87915_dark_360w_270h.png" tvg-name="Aprende+" group-title="Local",Aprende+
+https://17.m3u8
+#EXTINF:-1 tvg-id="AXN(Spanish).mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17484_dark_360w_270h.png" tvg-name="AXN" group-title="Local",AXN
+https://18.m3u8
+#EXTINF:-1 tvg-id="AyMSports(Spanish).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/aym_sports.png" tvg-name="AyM Sports" group-title="Local",AyM Sports
+https://19.m3u8
+#EXTINF:-1 tvg-id="Aztecaunomenosunahora(Spanish).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/azteca_uno-mediano.png" tvg-name="Azteca Uno -1" group-title="Local",Azteca Uno -1
+https://20.m3u8
+#EXTINF:-1 tvg-id="Aztecaunomenosdoshoras(Spanish).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/azteca_uno-mediano.png" tvg-name="Azteca Uno -2" group-title="Local",Azteca Uno -2
+https://21.m3u8
+#EXTINF:-1 tvg-id="Bandamax(Spanish).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/bandamax-mediano.png" tvg-name="Bandamax" group-title="Local",Bandamax
+https://22.m3u8
+#EXTINF:-1 tvg-id="Bitme(Spanish).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/bitme-mediano.png" tvg-name="BitMe" group-title="Local",BitMe
+https://23.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork(Spanish).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cartoon_network_latinoamerica-mediano.png" tvg-name="Cartoon Network" group-title="Local",Cartoon Network
+https://24.m3u8
+#EXTINF:-1 tvg-id="Cartoonito(Spanish).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cartoonito-mediano.png" tvg-name="Cartoonito" group-title="Local",Cartoonito
+https://25.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="Local",
