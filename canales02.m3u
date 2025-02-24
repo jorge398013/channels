@@ -69,7 +69,7 @@ https://31.m3u8
 https://32.m3u8
 #EXTINF:-1 tvg-id="XHLRTTDT(Spanish).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/de_las_estrellas-mediano.png" tvg-name="Canal de las Estrellas -1 Hora" group-title="Local",Canal de las Estrellas -1 Hora
 https://33.m3u8
-#EXTINF:-1 tvg-id="LasEstrellasmenosdoshoras(Spanish).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/de_las_estrellas-mediano.png" tvg-name="Canal de las Estrellas -2 Horas" group-title="Local",Canal de las Estrellas -2 Horas
+#EXTINF:-1 tvg-id="XEW2(Spanish).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/de_las_estrellas-mediano.png" tvg-name="Canal de las Estrellas -2 Horas" group-title="Local",Canal de las Estrellas -2 Horas
 https://33_2.m3u8
 #EXTINF:-1 tvg-id="DePelicula(Spanish).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/de_pelicula-mediano.png" tvg-name="De Película" group-title="Local",De Película
 https://34.m3u8
