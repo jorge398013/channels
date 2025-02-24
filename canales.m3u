@@ -73,6 +73,6 @@ https://33.m3u8
 https://34.m3u8
 #EXTINF:-1 tvg-id="DePeliculaClasico(Spanish).mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33628_dark_360w_270h.png" tvg-name="De Pelicula Clasico" group-title="Local",De Pelicula Clasico
 https://35.m3u8
-#EXTINF:-1 tvg-id="DePeliculaPlus(Spanish).mx" tvg-logo=http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74016_dark_360w_270h.png"" tvg-name="De Pelicula Plus" group-title="Local",De Pelicula Plus
+#EXTINF:-1 tvg-id="DePeliculaPlus(Spanish).mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74016_dark_360w_270h.png" tvg-name="De Pelicula Plus" group-title="Local",De Pelicula Plus
 https://36.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="Local",
