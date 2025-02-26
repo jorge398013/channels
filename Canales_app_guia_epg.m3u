@@ -1,11 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="HBO(Spanish).mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" tvg-name="HBO" group-title="Peliculas",HBO
+https://cine_01.m3u8
 #EXTINF:-1 tvg-id="HBO2(Spanish).mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80120_dark_360w_270h.png" tvg-name="HBO 2" group-title="Peliculas",HBO 2
 #EXTINF:-1 tvg-id="HBOSignature(Spanish).mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80120_dark_360w_270h.png" tvg-name="HBO Signature" group-title="Peliculas",HBO Signature
 #EXTINF:-1 tvg-id="HBOFamily(Spanish).mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34879_dark_360w_270h.png" tvg-name="HBO Family" group-title="Peliculas",HBOFamily
 #EXTINF:-1 tvg-id="HBOPlus(Spanish).mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34725_dark_360w_270h.png" tvg-name="HBO Plus" group-title="Peliculas",HBO Plus
 #EXTINF:-1 tvg-id="HBOMundi(Spanish).mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70081_dark_360w_270h.png" tvg-name="HBOMundi" group-title="Peliculas",HBO Mundi
-#EXTINF:-1 tvg-id="HBOPop(Spanish).mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68134_dark_360w_270h.png" tvg-name="HBO Pop" group-title="Peliculas",HBOPop
+#EXTINF:-1 tvg-id="HBOPop(Spanish).mx" tvg-logo="http://schedulesdirect-api201
+########## PELICULAS ##########41201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68134_dark_360w_270h.png" tvg-name="HBO Pop" group-title="Peliculas",HBOPop
 #EXTINF:-1 tvg-id="HBOXtreme(Spanish).mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80211_dark_360w_270h.png" tvg-name="HBO Xtreme" group-title="",HBO Xtreme
 #EXTINF:-1 tvg-id="Cinema(Spanish).mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s95687_dark_360w_270h.png" tvg-name="Cinema" group-title="",Cinema
 #EXTINF:-1 tvg-id="ParamountNetwork(Spanish).mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91120_dark_360w_270h.png" tvg-name="Paramount Network" group-title="",Paramount Network
