@@ -25,43 +25,43 @@ https://11.m3u8
 https://12.m3u8
 #EXTINF:-1 tvg-id="AMAS(Spanish).mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116157_dark_360w_270h.png" tvg-name="Canal a+" group-title="Local",Canal a+
 https://13.m3u8
-#EXTINF:-1 tvg-id="AdrenalinaSportsNetwork(Spanish).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/adrenalina_sports_network-mediano.png" tvg-name="Adrenalina Sports Network" group-title="Local",Adrenalina Sports Network
+#EXTINF:-1 tvg-id="AdrenalinaSportsNetwork(Spanish).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/adrenalina_sports_network-mediano.png" tvg-name="Adrenalina Sports Network" group-title="Deportes",Adrenalina Sports Network
 https://14.m3u8
-#EXTINF:-1 tvg-id="AMC(Spanish).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/amc_latinoamerica-mediano.png" tvg-name="AMC" group-title="Local",AMC
+#EXTINF:-1 tvg-id="AMC(Spanish).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/amc_latinoamerica-mediano.png" tvg-name="AMC" group-title="Peliculas",AMC
 https://15.m3u8
-#EXTINF:-1 tvg-id="AnimalPlanet(Spanish).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/animal_planet_latinoamerica-mediano.png" tvg-name="Animal Planet" group-title="Local",Animal Planet
+#EXTINF:-1 tvg-id="AnimalPlanet(Spanish).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/animal_planet_latinoamerica-mediano.png" tvg-name="Animal Planet" group-title="Documentales",Animal Planet
 https://16.m3u8
 #EXTINF:-1 tvg-id="Aprendeplus(Spanish).mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87915_dark_360w_270h.png" tvg-name="Aprende+" group-title="Local",Aprende+
 https://17.m3u8
 #EXTINF:-1 tvg-id="AXN(Spanish).mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17484_dark_360w_270h.png" tvg-name="AXN" group-title="Local",AXN
 https://18.m3u8
-#EXTINF:-1 tvg-id="AyMSports(Spanish).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/aym_sports.png" tvg-name="AyM Sports" group-title="Local",AyM Sports
+#EXTINF:-1 tvg-id="AyMSports(Spanish).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/aym_sports.png" tvg-name="AyM Sports" group-title="Deportes",AyM Sports
 https://19.m3u8
 #EXTINF:-1 tvg-id="Aztecaunomenosunahora(Spanish).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/azteca_uno-mediano.png" tvg-name="Azteca Uno -1" group-title="Local",Azteca Uno -1
 https://20.m3u8
 #EXTINF:-1 tvg-id="Aztecaunomenosdoshoras(Spanish).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/azteca_uno-mediano.png" tvg-name="Azteca Uno -2" group-title="Local",Azteca Uno -2
 https://21.m3u8
-#EXTINF:-1 tvg-id="Bandamax(Spanish).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/bandamax-mediano.png" tvg-name="Bandamax" group-title="Local",Bandamax
+#EXTINF:-1 tvg-id="Bandamax(Spanish).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/bandamax-mediano.png" tvg-name="Bandamax" group-title="Musica",Bandamax
 https://22.m3u8
 #EXTINF:-1 tvg-id="Bitme(Spanish).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/bitme-mediano.png" tvg-name="BitMe" group-title="Local",BitMe
 https://23.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork(Spanish).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cartoon_network_latinoamerica-mediano.png" tvg-name="Cartoon Network" group-title="Local",Cartoon Network
 https://24.m3u8
-#EXTINF:-1 tvg-id="Cartoonito(Spanish).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cartoonito-mediano.png" tvg-name="Cartoonito" group-title="Local",Cartoonito
+#EXTINF:-1 tvg-id="Cartoonito(Spanish).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cartoonito-mediano.png" tvg-name="Cartoonito" group-title="Infantil",Cartoonito
 https://25.m3u8
-#EXTINF:-1 tvg-id="Cinecanal(Spanish).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cinecanal-mediano.png" tvg-name="Cinecanal" group-title="Local",Cinecanal
+#EXTINF:-1 tvg-id="Cinecanal(Spanish).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cinecanal-mediano.png" tvg-name="Cinecanal" group-title="Peliculas",Cinecanal
 https://26.m3u8
-#EXTINF:-1 tvg-id="CineLatino(Spanish).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cinelatino-mediano.png" tvg-name="Cine Latino" group-title="Local",Cine Latino
+#EXTINF:-1 tvg-id="CineLatino(Spanish).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cinelatino-mediano.png" tvg-name="Cine Latino" group-title="Peliculas",Cine Latino
 https://27.m3u8
-#EXTINF:-1 tvg-id="Cinema(Spanish).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cinema-mediano.png" tvg-name="Cinema" group-title="Local",Cinema
+#EXTINF:-1 tvg-id="Cinema(Spanish).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cinema-mediano.png" tvg-name="Cinema" group-title="Peliculas",Cinema
 https://28.m3u8
-#EXTINF:-1 tvg-id="CinemaPlatino(Spanish).mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16522_dark_360w_270h.png" tvg-name="Cinema Platino" group-title="Local",Cinema Platino
+#EXTINF:-1 tvg-id="CinemaPlatino(Spanish).mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16522_dark_360w_270h.png" tvg-name="Cinema Platino" group-title="Peliculas",Cinema Platino
 https://29.m3u8
-#EXTINF:-1 tvg-id="CinemaPlatino2(Spanish).mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16522_dark_360w_270h.png" tvg-name="Cinema Platino 2" group-title="Local",Cinema Platino 2
+#EXTINF:-1 tvg-id="CinemaPlatino2(Spanish).mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16522_dark_360w_270h.png" tvg-name="Cinema Platino 2" group-title="Peliculas",Cinema Platino 2
 https://29_2.m3u8
-#EXTINF:-1 tvg-id="CinemaPlatinoMultiplex(Spanish).mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16522_dark_360w_270h.png" tvg-name="Cinema Platino Multiplex" group-title="Local",Cinema Platino Multiplex
+#EXTINF:-1 tvg-id="CinemaPlatinoMultiplex(Spanish).mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16522_dark_360w_270h.png" tvg-name="Cinema Platino Multiplex" group-title="Peliculas",Cinema Platino Multiplex
 https://29_3.m3u8
-#EXTINF:-1 tvg-id="Cinemax(Spanish).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cinemax_latinoamerica-mediano.png" tvg-name="Cinemax" group-title="Local",Cinemax
+#EXTINF:-1 tvg-id="Cinemax(Spanish).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cinemax_latinoamerica-mediano.png" tvg-name="Cinemax" group-title="Peliculas",Cinemax
 https://30.m3u8
 #EXTINF:-1 tvg-id="Clic(Spanish).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/clic-mediano.png" tvg-name="Clic" group-title="Local",Clic
 https://31.m3u8
@@ -71,10 +71,10 @@ https://32.m3u8
 https://33.m3u8
 #EXTINF:-1 tvg-id="XEW2(Spanish).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/de_las_estrellas-mediano.png" tvg-name="Canal de las Estrellas -2 Horas" group-title="Local",Canal de las Estrellas -2 Horas
 https://33_2.m3u8
-#EXTINF:-1 tvg-id="DePelicula(Spanish).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/de_pelicula-mediano.png" tvg-name="De Película" group-title="Local",De Película
+#EXTINF:-1 tvg-id="DePelicula(Spanish).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/de_pelicula-mediano.png" tvg-name="De Película" group-title="Peliculas",De Película
 https://34.m3u8
-#EXTINF:-1 tvg-id="DePeliculaClasico(Spanish).mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33628_dark_360w_270h.png" tvg-name="De Pelicula Clasico" group-title="Local",De Pelicula Clasico
+#EXTINF:-1 tvg-id="DePeliculaClasico(Spanish).mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33628_dark_360w_270h.png" tvg-name="De Pelicula Clasico" group-title="Peliculas",De Pelicula Clasico
 https://35.m3u8
-#EXTINF:-1 tvg-id="DePeliculaPlus(Spanish).mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74016_dark_360w_270h.png" tvg-name="De Pelicula Plus" group-title="Local",De Pelicula Plus
+#EXTINF:-1 tvg-id="DePeliculaPlus(Spanish).mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74016_dark_360w_270h.png" tvg-name="De Pelicula Plus" group-title="Peliculas",De Pelicula Plus
 https://36.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="Local",
