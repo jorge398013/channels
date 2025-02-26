@@ -39,7 +39,7 @@ https://cine_18.m3u8
 https://cine_19.m3u8
 #EXTINF:-1 tvg-id="TCM(Spanish).mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19246_dark_360w_270h.png" tvg-name="TCM" group-title="",TCM
 https://cine_20.m3u8
-#EXTINF:-1 tvg-id="CanalDHE(Spanish).mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1016572-8c.png" tvg-name="DHE" group-title="",DHE
+#EXTINF:-1 tvg-id="CanalDHE(Spanish).mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s81622_dark_360w_270h.png" tvg-name="DHE" group-title="",DHE
 https://cine_21.m3u8
 #EXTINF:-1 tvg-id="MXNuestroCine(Spanish).mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s101361_dark_360w_270h.png" tvg-name="MX Nuestro Cine" group-title="",MX Nuestro Cine
 https://cine_22.m3u8
