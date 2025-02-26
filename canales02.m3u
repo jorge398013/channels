@@ -1,9 +1,19 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Aztecauno(Spanish).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/azteca_uno-mediano.png" tvg-name="Azteca Uno" group-title="TV Abierta",Azteca Uno
 https://01.m3u8
+#EXTINF:-1 tvg-id="Aztecaunomenosunahora(Spanish).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/azteca_uno-mediano.png" tvg-name="Azteca Uno -1" group-title="TV Abierta",Azteca Uno -1 Hora
+https://20.m3u8
+#EXTINF:-1 tvg-id="Aztecaunomenosdoshoras(Spanish).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/azteca_uno-mediano.png" tvg-name="Azteca Uno -2" group-title="TV Abierta",Azteca Uno -2 Horas
+https://21.m3u8
 #EXTINF:-1 tvg-id="LasEstrellas(Spanish).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/de_las_estrellas-mediano.png" tvg-name="Canal de las Estrellas" group-title="TV Abierta",Canal de las Estrellas
 https://02.m3u8
+#EXTINF:-1 tvg-id="XHLRTTDT(Spanish).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/de_las_estrellas-mediano.png" tvg-name="Canal de las Estrellas -1 Hora" group-title="TV Abierta",Canal de las Estrellas -1 Hora
+https://33.m3u8
+#EXTINF:-1 tvg-id="XEW2(Spanish).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/de_las_estrellas-mediano.png" tvg-name="Canal de las Estrellas -2 Horas" group-title="TV Abierta",Canal de las Estrellas -2 Horas
+https://33_2.m3u8
 #EXTINF:-1 tvg-id="XHGTVCanal4Guadalajara(Spanish).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/4_de_guadalajara-mediano.png" tvg-name="Canal 4 Guadalajara" group-title="TV Abierta",Canal 4 Guadalajara
+#EXTINF:-1 tvg-id="Aprendeplus(Spanish).mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87915_dark_360w_270h.png" tvg-name="Aprende+" group-title="TV Abierta",Aprende+
+https://17.m3u8
 https://03.m3u8
 #EXTINF:-1 tvg-id="ADN40(Spanish).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/adn_40-mediano.png" tvg-name="ADN 40" group-title="TV Abierta",ADN 40
 https://04.m3u8
@@ -21,26 +31,21 @@ https://09.m3u8
 https://10.m3u8
 #EXTINF:-1 tvg-id="XEFB(Spanish).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/4_de_monterrey-mediano.png" tvg-name="Canal 4 de Monterrey" group-title="TV Abierta",Canal 4 de Monterrey
 https://11.m3u8
-#EXTINF:-1 tvg-id="AandE(Spanish).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/a_y_e_latinoamerica-mediano.png" tvg-name="A&E" group-title="Peliculas",A&E
-https://12.m3u8
 #EXTINF:-1 tvg-id="AMAS(Spanish).mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116157_dark_360w_270h.png" tvg-name="Canal a+" group-title="TV Abierta",Canal a+
 https://13.m3u8
+#EXTINF:-1 tvg-id="AandE(Spanish).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/a_y_e_latinoamerica-mediano.png" tvg-name="A&E" group-title="Peliculas",A&E
+https://12.m3u8
+
 #EXTINF:-1 tvg-id="AdrenalinaSportsNetwork(Spanish).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/adrenalina_sports_network-mediano.png" tvg-name="Adrenalina Sports Network" group-title="Deportes",Adrenalina Sports Network
 https://14.m3u8
 #EXTINF:-1 tvg-id="AMC(Spanish).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/amc_latinoamerica-mediano.png" tvg-name="AMC" group-title="Peliculas",AMC
 https://15.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanet(Spanish).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/animal_planet_latinoamerica-mediano.png" tvg-name="Animal Planet" group-title="Documentales",Animal Planet
 https://16.m3u8
-#EXTINF:-1 tvg-id="Aprendeplus(Spanish).mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87915_dark_360w_270h.png" tvg-name="Aprende+" group-title="TV Abierta",Aprende+
-https://17.m3u8
 #EXTINF:-1 tvg-id="AXN(Spanish).mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17484_dark_360w_270h.png" tvg-name="AXN" group-title="Peliculas",AXN
 https://18.m3u8
 #EXTINF:-1 tvg-id="AyMSports(Spanish).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/aym_sports.png" tvg-name="AyM Sports" group-title="Deportes",AyM Sports
 https://19.m3u8
-#EXTINF:-1 tvg-id="Aztecaunomenosunahora(Spanish).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/azteca_uno-mediano.png" tvg-name="Azteca Uno -1" group-title="TV Abierta",Azteca Uno -1
-https://20.m3u8
-#EXTINF:-1 tvg-id="Aztecaunomenosdoshoras(Spanish).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/azteca_uno-mediano.png" tvg-name="Azteca Uno -2" group-title="TV Abierta",Azteca Uno -2
-https://21.m3u8
 #EXTINF:-1 tvg-id="Bandamax(Spanish).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/bandamax-mediano.png" tvg-name="Bandamax" group-title="Musica",Bandamax
 https://22.m3u8
 #EXTINF:-1 tvg-id="Bitme(Spanish).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/bitme-mediano.png" tvg-name="BitMe" group-title="Infantiles",BitMe
@@ -63,18 +68,17 @@ https://29_2.m3u8
 https://29_3.m3u8
 #EXTINF:-1 tvg-id="Cinemax(Spanish).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cinemax_latinoamerica-mediano.png" tvg-name="Cinemax" group-title="Peliculas",Cinemax
 https://30.m3u8
+
 #EXTINF:-1 tvg-id="Clic(Spanish).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/clic-mediano.png" tvg-name="Clic" group-title="Entretenimiento",Clic
 https://31.m3u8
-#EXTINF:-1 tvg-id="ComedyCentral(Spanish).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/comedy_central_latinoamerica-mediano.png" tvg-name="Comedy Central" group-title="Local",Comedy Central
+#EXTINF:-1 tvg-id="ComedyCentral(Spanish).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/comedy_central_latinoamerica-mediano.png" tvg-name="Comedy Central" group-title="Entretenimientol",Comedy Central
 https://32.m3u8
-#EXTINF:-1 tvg-id="XHLRTTDT(Spanish).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/de_las_estrellas-mediano.png" tvg-name="Canal de las Estrellas -1 Hora" group-title="TV Abierta",Canal de las Estrellas -1 Hora
-https://33.m3u8
-#EXTINF:-1 tvg-id="XEW2(Spanish).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/de_las_estrellas-mediano.png" tvg-name="Canal de las Estrellas -2 Horas" group-title="TV Abierta",Canal de las Estrellas -2 Horas
-https://33_2.m3u8
+
 #EXTINF:-1 tvg-id="DePelicula(Spanish).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/de_pelicula-mediano.png" tvg-name="De Película" group-title="Peliculas",De Película
 https://34.m3u8
 #EXTINF:-1 tvg-id="DePeliculaClasico(Spanish).mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33628_dark_360w_270h.png" tvg-name="De Pelicula Clasico" group-title="Peliculas",De Pelicula Clasico
 https://35.m3u8
 #EXTINF:-1 tvg-id="DePeliculaPlus(Spanish).mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74016_dark_360w_270h.png" tvg-name="De Pelicula Plus" group-title="Peliculas",De Pelicula Plus
 https://36.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="Local",
