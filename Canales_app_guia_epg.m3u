@@ -27,7 +27,7 @@ https://cine_12.m3u8
 https://cine_13.m3u8
 #EXTINF:-1 tvg-id="Space(Spanish).mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68021_dark_360w_270h.png" tvg-name="Space" group-title="Peliculas",Space
 https://cine_14.m3u8
-#EXTINF:-1 tvg-id="CineLatino(Spanish).mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15296_dark_360w_270h.png" tvg-name="Cine Latino(" group-title="Peliculas",Cine Latino
+#EXTINF:-1 tvg-id="CineLatino(Spanish).mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15296_dark_360w_270h.png" tvg-name="Cine Latino" group-title="Peliculas",Cine Latino
 https://cine_15.m3u8
 #EXTINF:-1 tvg-id="SonyMovies(Spanish).mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s124605_dark_360w_270h.png" tvg-name="Sony Movies" group-title="Peliculas",SonyMovies
 https://cine_16.m3u8
