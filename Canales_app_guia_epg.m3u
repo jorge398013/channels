@@ -2,24 +2,45 @@
 #EXTINF:-1 tvg-id="HBO(Spanish).mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" tvg-name="HBO" group-title="Peliculas",HBO
 https://cine_01.m3u8
 #EXTINF:-1 tvg-id="HBO2(Spanish).mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80120_dark_360w_270h.png" tvg-name="HBO 2" group-title="Peliculas",HBO 2
+https://cine_02.m3u8
 #EXTINF:-1 tvg-id="HBOSignature(Spanish).mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80120_dark_360w_270h.png" tvg-name="HBO Signature" group-title="Peliculas",HBO Signature
+https://cine_03.m3u8
 #EXTINF:-1 tvg-id="HBOFamily(Spanish).mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34879_dark_360w_270h.png" tvg-name="HBO Family" group-title="Peliculas",HBOFamily
+https://cine_04.m3u8
 #EXTINF:-1 tvg-id="HBOPlus(Spanish).mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34725_dark_360w_270h.png" tvg-name="HBO Plus" group-title="Peliculas",HBO Plus
+https://cine_05.m3u8
 #EXTINF:-1 tvg-id="HBOMundi(Spanish).mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70081_dark_360w_270h.png" tvg-name="HBOMundi" group-title="Peliculas",HBO Mundi
+https://cine_06.m3u8
 #EXTINF:-1 tvg-id="HBOPop(Spanish).mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68134_dark_360w_270h.png" tvg-name="HBO Pop" group-title="Peliculas",HBOPop
+https://cine_07.m3u8
 #EXTINF:-1 tvg-id="HBOXtreme(Spanish).mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80211_dark_360w_270h.png" tvg-name="HBO Xtreme" group-title="",HBO Xtreme
+https://cine_08.m3u8
 #EXTINF:-1 tvg-id="Cinema(Spanish).mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s95687_dark_360w_270h.png" tvg-name="Cinema" group-title="",Cinema
+https://cine_09.m3u8
 #EXTINF:-1 tvg-id="ParamountNetwork(Spanish).mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91120_dark_360w_270h.png" tvg-name="Paramount Network" group-title="",Paramount Network
+https://cine_10.m3u8
 #EXTINF:-1 tvg-id="Cinecanal(Spanish).mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105609_dark_360w_270h.png" tvg-name="Cinecanal" group-title="",Cinecanal
+https://cine_11.m3u8
 #EXTINF:-1 tvg-id="TNT(Spanish).mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71727_dark_360w_270h.png" tvg-name="TNT" group-title="",TNT
+https://cine_12.m3u8
 #EXTINF:-1 tvg-id="AMC(Spanish).mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90653_dark_360w_270h.png" tvg-name="AMC" group-title="",AMC
+https://cine_13.m3u8
 #EXTINF:-1 tvg-id="Space(Spanish).mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68021_dark_360w_270h.png" tvg-name="Space" group-title="",Space
+https://cine_14.m3u8
 #EXTINF:-1 tvg-id="CineLatino(Spanish).mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15296_dark_360w_270h.png" tvg-name="Cine Latino(" group-title="",Cine Latino
+https://cine_15.m3u8
 #EXTINF:-1 tvg-id="SonyMovies(Spanish).mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s124605_dark_360w_270h.png" tvg-name="Sony Movies" group-title="",SonyMovies
+https://cine_16.m3u8
 #EXTINF:-1 tvg-id="Cinemax(Spanish).mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16794_dark_360w_270h.png" tvg-name="Cinemax" group-title="",Cinemax
+https://cine_17.m3u8
 #EXTINF:-1 tvg-id="EuropaEuropa(Spanish).mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s27741_dark_360w_270h.png" tvg-name="Europa Europa" group-title="",Europa Europa
+https://cine_18.m3u8
 #EXTINF:-1 tvg-id="FilmandArts(Spanish).mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87687_dark_360w_270h.png" tvg-name="Film & Arts" group-title="",Film & Arts
+https://cine_19.m3u8
 #EXTINF:-1 tvg-id="TCM(Spanish).mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19246_dark_360w_270h.png" tvg-name="TCM" group-title="",TCM
+https://cine_20.m3u8
 #EXTINF:-1 tvg-id="CanalDHE(Spanish).mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1016572-8c.png" tvg-name="DHE" group-title="",DHE
+https://cine_21.m3u8
 #EXTINF:-1 tvg-id="MXNuestroCine(Spanish).mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s101361_dark_360w_270h.png" tvg-name="MX Nuestro Cine" group-title="",MX Nuestro Cine
+https://cine_22.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="",
