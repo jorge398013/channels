@@ -41,6 +41,6 @@ https://cine_19.m3u8
 https://cine_20.m3u8
 #EXTINF:-1 tvg-id="CanalDHE(Spanish).mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s81622_dark_360w_270h.png" tvg-name="DHE" group-title="Peliculas",DHE
 https://cine_21.m3u8
-#EXTINF:-1 tvg-id="MXNuestroCine(Spanish).mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s101361_dark_360w_270h.png" tvg-name="MX Nuestro Cine" group-title="",MX Nuestro Cine
+#EXTINF:-1 tvg-id="mx#golden" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s101361_dark_360w_270h.png" tvg-name="Golden" group-title="",Golden
 https://cine_22.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="",
