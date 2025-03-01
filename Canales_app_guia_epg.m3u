@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="HBO(Spanish).mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" tvg-name="HBO" group-title="Peliculas",HBO
+#EXTINF:-1 tvg-id="mx#hbo-oeste-hd" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" tvg-name="HBO" group-title="Peliculas",HBO
 https://cine_01.m3u8
 #EXTINF:-1 tvg-id="HBO2(Spanish).mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80120_dark_360w_270h.png" tvg-name="HBO 2" group-title="Peliculas",HBO 2
 https://cine_02.m3u8
