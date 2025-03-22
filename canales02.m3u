@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Aztecauno(Spanish).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/azteca_uno-mediano.png" tvg-name="Azteca Uno" group-title="TV Abierta",Azteca Uno
-https://01.m3u8
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 tvg-id="Aztecaunomenosunahora(Spanish).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/azteca_uno-mediano.png" tvg-name="Azteca Uno -1" group-title="TV Abierta",Azteca Uno -1 Hora
 https://20.m3u8
 #EXTINF:-1 tvg-id="Aztecaunomenosdoshoras(Spanish).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/azteca_uno-mediano.png" tvg-name="Azteca Uno -2" group-title="TV Abierta",Azteca Uno -2 Horas
@@ -13,7 +13,6 @@ https://33.m3u8
 https://33_2.m3u8
 #EXTINF:-1 tvg-id="XHGTVCanal4Guadalajara(Spanish).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/4_de_guadalajara-mediano.png" tvg-name="Canal 4 Guadalajara" group-title="TV Abierta",Canal 4 Guadalajara
 https://17.m3u8
-https://03.m3u8
 #EXTINF:-1 tvg-id="ADN40(Spanish).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/adn_40-mediano.png" tvg-name="ADN 40" group-title="TV Abierta",ADN 40
 https://04.m3u8
 #EXTINF:-1 tvg-id="Azteca7(Spanish).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/azteca_7-mediano.png" tvg-name="Azteca 7" group-title="TV Abierta",Azteca 7
@@ -34,7 +33,6 @@ https://11.m3u8
 https://13.m3u8
 #EXTINF:-1 tvg-id="AandE(Spanish).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/a_y_e_latinoamerica-mediano.png" tvg-name="A&E" group-title="Peliculas",A&E
 https://12.m3u8
-
 #EXTINF:-1 tvg-id="AdrenalinaSportsNetwork(Spanish).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/adrenalina_sports_network-mediano.png" tvg-name="Adrenalina Sports Network" group-title="Deportes",Adrenalina Sports Network
 https://14.m3u8
 #EXTINF:-1 tvg-id="AMC(Spanish).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/amc_latinoamerica-mediano.png" tvg-name="AMC" group-title="Peliculas",AMC
@@ -70,7 +68,7 @@ https://30.m3u8
 
 #EXTINF:-1 tvg-id="Clic(Spanish).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/clic-mediano.png" tvg-name="Clic" group-title="Entretenimiento",Clic
 https://31.m3u8
-#EXTINF:-1 tvg-id="ComedyCentral(Spanish).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/comedy_central_latinoamerica-mediano.png" tvg-name="Comedy Central" group-title="Entretenimientol",Comedy Central
+#EXTINF:-1 tvg-id="ComedyCentral(Spanish).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/comedy_central_latinoamerica-mediano.png" tvg-name="Comedy Central" group-title="Entretenimiento",Comedy Central
 https://32.m3u8
 
 #EXTINF:-1 tvg-id="DePelicula(Spanish).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/de_pelicula-mediano.png" tvg-name="De Película" group-title="Peliculas",De Película
