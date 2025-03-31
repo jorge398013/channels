@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Aztecauno(Spanish).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/azteca_uno-mediano.png" tvg-name="Azteca Uno" group-title="Local",Azteca Uno
+#EXTINF:-1 tvg-id="mx#hbo-oeste-hd" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/azteca_uno-mediano.png" tvg-name="Azteca Uno" group-title="Local",Azteca Uno
 https://01.m3u8
 #EXTINF:-1 tvg-id="LasEstrellas(Spanish).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/de_las_estrellas-mediano.png" tvg-name="Canal de las Estrellas" group-title="Local",Canal de las Estrellas
 https://02.m3u8
