@@ -1,0 +1,32 @@
+{
+  "user_favorites": {
+    "userId1": {
+      "-NpX9qR7kLm3bVh2j5wK": {
+        "title": "The Mandalorian",
+        "channel": "Disney+",
+        "startTime": 1677646800000,
+        "endTime": 1677650400000,
+        "imageUrl": "https://image.tmdb.org/t/p/w500/sWgBv7LV2PRoQgkxwlibdGXKz1S.jpg",
+        "description": "The travels of a lone bounty hunter in the outer reaches of the galaxy."
+      },
+      "-NpX9qR7kLm3bVh2j5wL": {
+        "title": "Stranger Things",
+        "channel": "Netflix",
+        "startTime": 1677733200000,
+        "endTime": 1677736800000,
+        "imageUrl": "https://image.tmdb.org/t/p/w500/49WJfeN0moxb9IPfGn8AIqMGskD.jpg",
+        "description": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments."
+      }
+    },
+    "userId2": {
+      "-NpX9qR7kLm3bVh2j5wM": {
+        "title": "House of the Dragon",
+        "channel": "HBO Max",
+        "startTime": 1677819600000,
+        "endTime": 1677823200000,
+        "imageUrl": "https://image.tmdb.org/t/p/w500/etj8E2o0Bud0HkON1QP5C9qwu1Q.jpg",
+        "description": "The Targaryen dynasty is at the absolute apex of its power."
+      }
+    }
+  }
+}
